@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+<test name="test">
+<classes>
+<groups>
+<run>
+<include name="group d" /> 
+</run>
+</groups>
+<class name= "com.testng.sample_1"/>
+<methods>
+<include name="Sample3"/>
+
+</methods>
+
+</classes>
+</test>
+></suite>

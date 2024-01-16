@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+<test name="test">
+<classes>
+<class name="com.testng.grouping_testcases" />
+<groups>
+<run>
+<include name="smoketest"/>
+</run>
+
+</groups>
+</classes>
+
+</test>
+
+</suite>
